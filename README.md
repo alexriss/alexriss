@@ -4,6 +4,7 @@
 	<a href="https://github.com/alexriss"><img src="https://img.shields.io/github/followers/alexriss.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/00alexx"><img src="https://img.shields.io/twitter/follow/00alexx?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/alexander-riss-944b8611"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://alexriss.github.io/Tour-de-Code/"><img src="https://img.shields.io/badge/Tour%20de-Code-blue" alt"Tour de Code"></a>
 </p>
 
 
